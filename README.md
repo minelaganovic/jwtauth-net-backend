@@ -4,7 +4,7 @@
 # JWT Auth with React and .NET
 
 ### Opis
-Aplikacija predstavlja full-stack sistem za upravljanje podacima o studentima, koristeći React za frontend i .NET Core za backend. U aplikaciji su implementirani autentifikacija i autorizacija uz pomoć JWT (JSON Web Token) tehnologije, čime se omogućava sigurno registrovanje, logovanje, i pristup zaštićenim rutama. Aplikacija takođe podržava CRUD operacije nad podacima o studentima.
+Aplikacija predstavlja full-stack sistem za upravljanje podacima o studentima, koristeći <a href="">React za frontend</a> i .NET Core za backend. U aplikaciji su implementirani autentifikacija i autorizacija uz pomoć JWT (JSON Web Token) tehnologije, čime se omogućava sigurno registrovanje, logovanje, i pristup zaštićenim rutama. Aplikacija takođe podržava CRUD operacije nad podacima o studentima.
 
 ---
 
@@ -53,36 +53,5 @@ CRUD operacije omogućavaju kreiranje, čitanje, ažuriranje i brisanje podataka
 - **Backend**: .NET Core, ASP.NET Core, Entity Framework Core
 - **Frontend**: React
 - **Autentifikacija**: JSON Web Token (JWT)
-
----
-
-## Instalacija i pokretanje
-
-1. **Kloni repozitorijum**:
-   ```bash
-   git clone https://github.com/minelaganovic/jwtauth_reactnet.git
-   ```
-   
-2. **Backend (ASP.NET Core)**:
-   - Navigirajte u backend direktorijum i instalirajte zavisnosti:
-     ```bash
-     cd serverstudent
-     dotnet restore
-     ```
-   - Pokrenite aplikaciju:
-     ```bash
-     dotnet run
-     ```
-
-3. **Frontend (React)**:
-   - Navigirajte u frontend direktorijum i instalirajte zavisnosti:
-     ```bash
-     cd studentclient
-     npm install
-     ```
-   - Pokrenite frontend:
-     ```bash
-     npm start
-     ```
 
 ---
