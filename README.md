@@ -4,7 +4,7 @@
 # JWT Auth with React and .NET
 
 ### Opis
-Aplikacija predstavlja full-stack sistem za upravljanje podacima o studentima, koristeći <a href="https://github.com/minelaganovic/jwtauth_react_frontend">React za frontend</a> i .NET Core za backend. U aplikaciji su implementirani autentifikacija i autorizacija uz pomoć JWT (JSON Web Token) tehnologije, čime se omogućava sigurno registrovanje, logovanje, i pristup zaštićenim rutama. Aplikacija takođe podržava CRUD operacije nad podacima o studentima.
+Aplikacija predstavlja full-stack sistem za upravljanje podacima o studentima, koristeći <a href="https://github.com/minelaganovic/jwtauth-react-frontend">React za frontend</a> i .NET Core za backend. U aplikaciji su implementirani autentifikacija i autorizacija uz pomoć JWT (JSON Web Token) tehnologije, čime se omogućava sigurno registrovanje, logovanje, i pristup zaštićenim rutama. Aplikacija takođe podržava CRUD operacije nad podacima o studentima.
 
 ---
 
